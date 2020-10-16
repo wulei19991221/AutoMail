@@ -43,3 +43,6 @@ if __name__ == '__main__':
     #     print(f.read().strip('\n'))
     # synthesis()
     print(lib2)
+    
+    
+
